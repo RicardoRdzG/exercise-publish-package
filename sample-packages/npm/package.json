@@ -1,5 +1,9 @@
 {
-  "name": "my-awesome-package",
+  "name": "@RicardoRdzG/my-awesome-package",
   "version": "1.0.0",
   "author": "ricardo rodriguez <rdz.g.ricardo@gmail.com>"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RicardoRdzG/exercise-publish-package"
+  }
 }
